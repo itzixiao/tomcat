@@ -29,6 +29,8 @@ mvn.properties
 .externalToolBuilders
 .fbprefs
 .idea
+target
+.fastRequest
 .project
 .sdkmanrc
 .settings
